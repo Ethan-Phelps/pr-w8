@@ -1,0 +1,17 @@
+/*
+Every element must be styled.
+Create style rules using class, id, and element selectors.
+*/
+#container {margin: auto; width: 60%;}
+body {background-color: #777;}
+h1 {color: #000000; font-family: verdana; font-size: 200%;}
+h2 {color: #000000; font-family: verdana; font-size: 300%;}
+div {height: 120px;}
+ul {padding-left: 50px;} li {color: #00007f;}
+table {padding-left: 50px; border-collapse: collapse;}
+td {width: 25px; border:5px solid #000;} tr{height: 25px;}
+#ul {background-color: #ff0;} #um {background-color: #fff;} #ur {background-color: #f00;}
+#ml {background-color: #70f;} #br {background-color: #00f;} #tm {background-color: #000;}
+#mr,#bl,#bm {background-color: #333;}
+form{padding-left: 50px; color: #7f0000;}
+img{width: 600px;}
